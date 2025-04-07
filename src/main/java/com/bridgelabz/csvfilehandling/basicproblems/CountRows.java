@@ -5,7 +5,7 @@ import java.io.FileReader;
 
 public class CountRows {
     public static void main(String[] args) {
-        String path = "Students.csv";
+        String path = "Students2.csv";
         String line;
         int count=0;
         try{
