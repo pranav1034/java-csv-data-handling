@@ -13,7 +13,7 @@ public class WriteCsvFile {
             writer.append("2,Alan,Marketing,88000\n");
             writer.append("3,Aman,Finance,72000\n");
             writer.append("4,Nikhil,Human Resources,65000\n");
-            writer.append("5,David,Engineering,80000\n");
+            writer.append("5,David,Engineering,90000\n");
 
             writer.flush();
             writer.close();
